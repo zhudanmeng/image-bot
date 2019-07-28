@@ -1,0 +1,43 @@
+('C:\\Users\\Peter '
+ 'Zhu\\PycharmProjects\\PetersonBot\\build\\main\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('out00-PYZ.pyz',
+   'C:\\Users\\Peter '
+   'Zhu\\PycharmProjects\\PetersonBot\\build\\main\\out00-PYZ.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Peter '
+   'Zhu\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\Peter '
+   'Zhu\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\Peter '
+   'Zhu\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\Peter '
+   'Zhu\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Peter '
+   'Zhu\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Peter Zhu\\PycharmProjects\\PetersonBot\\main.py',
+   'PYSOURCE'),
+  ('main.exe.manifest',
+   'C:\\Users\\Peter '
+   'Zhu\\PycharmProjects\\PetersonBot\\build\\main\\main.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
